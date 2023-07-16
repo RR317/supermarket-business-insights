@@ -1,4 +1,4 @@
-# supermarket-business-insights
+# supermarket-business-insights(powerbi) 
 AIM
 The objective of the project is to provide a comprehensive data analysis and visualization solution for the supermarket, enabling 
 stakeholders to gain valuable insights into various aspects of the business. The Power BI dashboard serves as a powerful tool for
